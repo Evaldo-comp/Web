@@ -1,10 +1,10 @@
 ### Tags para manipulação de TEXTO
 #### Headings ou Cabeçalhos
 A nomenclatura que vamos utilizar é *** cabeçalhos ***, eles possuem basicamente 6 níveis, e servem para diferenciar seções da página, a tag utilizada 
-para implementar os diferentes níveis de cabeçalho é a ```<h1>````e ```</h1>```, altrando apenas o número após o h para determinar o nível.
+para implementar os diferentes níveis de cabeçalho é a ```<h1>```e ```</h1>```, altrando apenas o número após o h para determinar o nível.
 
 
-*** Exemplo ***
+***Exemplo***
 ```html
  <h1> Esse é o cabeçalho principal</h1>
  <h2> Esse é o segundo nível </h2>
