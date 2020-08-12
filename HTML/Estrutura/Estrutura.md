@@ -41,7 +41,18 @@ Os atributos nos fornece mais informação sobre um elemento HTML, os atributos 
 :bell: *Obs: O valor de um atributo deve estar entre aspas*
 
 ______
-______
+
+
+#### Principais Elementos:<br>
+##### <body>
+Este é o que podemos chamar de corpo da página, todo o conteúdo do site está dentro desta tag, ela delimita o bruto de informações que um site pode mostrar na tela.
+
+##### <head><br>
+Este elemento vem antes do <body>, é no head que inserimos informações sobre a página como por exemplo o título definido pela tag <title>.
+
+##### <title><br>
+O conteúdo delimitado por esse elemento é mostrado no topo do browser
+
 
 
 
