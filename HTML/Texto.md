@@ -55,7 +55,7 @@ A tag  ***```<hr>```*** gera uma linha horizontal que nesse momento inicial de a
 Existem alguns elementos que não irão alterar a estrutura propriamente dita, mas a forma como reconhecemos um determinado trecho do conteúdo o significado ou contexto diferenciado que é dado a este elemento. Ficou confuso né? Concordo, vou tentar melhorar esse texto futuramente. :smile:
 
 #### ```<strong>```
-Essa tag serve para indicar que um elemento é muito importante e merece se destacado.
+Essa tag serve para indicar que um elemento é muito importante e merece ser destacado.
 ```html
 <p><strong>Atenção</strong>: Desliguem os celulares</p>
 ```
