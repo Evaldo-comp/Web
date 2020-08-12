@@ -106,10 +106,10 @@ O elemento ***```<address>```*** serve para indicar contatos e informações sob
 
 Existem alguns artifícios para indicar que determinado conteúdo da página foi modificado, seja eliminado ou inserido.
 
-- A tag ***```<ins>```*** é utilizada para indicar a inserção de um elemento.
-- A tag ***```<del>```*** indica que um elemento foi eliminado.
+- A tag ***```<ins></ins>```*** é utilizada para indicar a inserção de um elemento.
+- A tag ***```<del></del>```*** indica que um elemento foi eliminado.
 ```html
-<p>Esse elemento foi <ins>inserido</ins> e este foi <del>deletado<>/del</p>
+<p>Esse elemento foi <ins>inserido</ins> e este foi <del>deletado</del></p>
 ```
 
 ______
