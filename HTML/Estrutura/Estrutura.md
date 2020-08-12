@@ -54,6 +54,8 @@ Este elemento vem antes do <body>, é no head que inserimos informações sobre 
 ##### ```<title>```<br>
 O conteúdo delimitado por esse elemento é mostrado no topo do browser
 
+***Exemplo:***
+
 ```HTML
 <!DOCTYPE html>
 <html lang = 'pt-br'>
@@ -63,7 +65,7 @@ O conteúdo delimitado por esse elemento é mostrado no topo do browser
 	</head>
 
 	<body>
-		<p>Dentro deste elemento irá basicamente  todo o conteúdo da página</p>>
+		<p>Dentro deste elemento irá basicamente  todo o conteúdo da página</p>
 
 	</body>
 </html>
