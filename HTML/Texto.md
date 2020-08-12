@@ -33,13 +33,14 @@ O prefeito falou:<i>” Não tenho culpa disso”</i>. e então abandonou a seç
 ```
 #### Sobrescrito e Subscrito
 
-Em algumas ocasiões será necessário alterar o nível de uma letra ou número em relação a outra, como por exemplo mostrar a fórmula da água H<sub>2</sub>O ou uma potencia 2<sup>³</sup> para isso temos as tags ```<sup></sup>```. Elas sobrescrevem um elemento.
+Em algumas ocasiões será necessário alterar o nível de uma letra ou número em relação a outra, como por exemplo mostrar a fórmula da água H<sub>2</sub>O ou uma potencia 2<sup>³</sup> para isso temos as tags ***```<sup></sup>```***. Elas sobrescrevem um elemento.
 ```html
 <p> A fórmula é E - MC<sup>2</sup></p>
 ```
-Para subscrever utilizamos a tags tags ```<sub></sub>```
-A fórmula da água é H<sub>2</sub>o
-
+Para subscrever utilizamos a tags tags ***```<sub></sub>```***.
+```html
+<p>A fórmula da água é H<sub>2</sub>O</br>
+```
 #### Quebra de linha e separador horizontal
 Caso você queira pular uma linha antes que ela alcance o limite da página, precisará utilizar uma tag específica para isso, pois como o html desconsidera espaços, se você apenas pressionar a tecla ENTER, sem utilizar a tag especifica o browser não irá mostrar a quebra, apenas um texto sequencial dentro do parágrafo. Para quebrar a linha utilize a tag única ```<br>```.
 ```html
