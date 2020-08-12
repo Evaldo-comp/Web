@@ -47,8 +47,8 @@ Caso você queira pular uma linha antes que ela alcance o limite da página, pre
 <p>.Esse texto continua<br>
 na próxima linha</p>
 ```
-A tah  ```<hr>``` gera uma linha horizontal que nesse momento inicial de aprendizagem pode ser utilizado para separar seções do site. 
-*** ______ ***
+A tag  ***```<hr>```*** gera uma linha horizontal que nesse momento inicial de aprendizagem pode ser utilizado para separar seções do site. 
+ ______ 
 
 
 #### Marcações semânticas
