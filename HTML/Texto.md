@@ -83,7 +83,7 @@ Para abreviar algum nome, utiliza-se a tag ***```<abb>```*** dentro dela é poss
 ```
 Para siglas ou acrônimos como também é chamado, podemos  utilizar a mesma tag que implementa as abreviações.
 ```html
-<p><abbr title=”Estados Unidos da américa ”>EUA<abbr></p>
+<p><abbr title=”Estados Unidos da américa ”>EUA</abbr></p>
 ```
 #### Citações
 Esse elemento semântico serve para indicar a origem da citação: Um livro, um filme etc.
