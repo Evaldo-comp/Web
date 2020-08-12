@@ -44,7 +44,8 @@ ______
 
 
 #### Principais Elementos:<br>
-##### <body>
+
+##### <body><br>
 Este é o que podemos chamar de corpo da página, todo o conteúdo do site está dentro desta tag, ela delimita o bruto de informações que um site pode mostrar na tela.
 
 ##### <head><br>
