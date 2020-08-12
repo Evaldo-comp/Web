@@ -77,7 +77,7 @@ Para citações curtas podemos utilizar a tag ***```<q>```***.
 <p>Essa é <q>uma citação curta</q></p>
 ```
 #### Abreviações e Acrônimos
-Para abreviar algum nome, utiliza-se a tag***```<abb>```*** dentro dela é possível inserir o atributo *title* que serve para especificar o nome completo  que foi abreviado.
+Para abreviar algum nome, utiliza-se a tag ***```<abb>```*** dentro dela é possível inserir o atributo *title* que serve para especificar o nome completo  que foi abreviado.
 ```html
 <p><abbr title = “Engenheiro”>Eng</abbr>José alves da Silva</p>
 ```
