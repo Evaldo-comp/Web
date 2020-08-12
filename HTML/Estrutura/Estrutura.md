@@ -73,7 +73,7 @@ O conteúdo delimitado por esse elemento é mostrado no topo do browser
 
 ______
 
-:house:[HOUSE](https://github.com/Evaldo-comp/Web/blob/master/README.md)
+ :house: [HOME](https://github.com/Evaldo-comp/Web/blob/master/README.md)
 
 
 
