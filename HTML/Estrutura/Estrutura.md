@@ -54,6 +54,21 @@ Este elemento vem antes do <body>, é no head que inserimos informações sobre 
 ##### ```<title>```<br>
 O conteúdo delimitado por esse elemento é mostrado no topo do browser
 
+```HTML
+<!DOCTYPE html>
+<html lang = 'pt-br'>
+	<head>
+		<meta charset="utf-8">
+		<title>Estrutura</title>>
+	</head>
+
+	<body>
+		<p>Dentro deste elemento irá basicamente  todo o conteúdo da página</p>>
+
+	</body>
+</html>
+```
+
 
 
 
