@@ -17,7 +17,7 @@ A diferença entre cada uma delas pode ser melhor percebida nos exemplos seguint
 </ol>
 ```
 
-:planet: ***No Browzer:***
+:earth_americas: ***No Browzer:***
 
 ![lista Ordenada](https://github.com/Evaldo-comp/Web/blob/master/HTML/Exemplos/Lista%20Ordenada.png)
 
@@ -36,7 +36,7 @@ A diferença entre cada uma delas pode ser melhor percebida nos exemplos seguint
 ```
 
 
-:planet: ***No Browzer:***
+:earth_americas: ***No Browzer:***
 
 ![lista Não Ordenada](https://github.com/Evaldo-comp/Web/blob/master/HTML/Exemplos/Lista_%20n%C3%A3o_%20Ordenada.png)
 
@@ -64,7 +64,7 @@ JavaScript é uma linguagem de programação interpretada estruturada, de script
 ```
 
 
-:planet: ***No Browzer:***
+:earth_americas: ***No Browzer:***
 
 ![lista de Definição](https://github.com/Evaldo-comp/Web/blob/master/HTML/Exemplos/Capturas/lista_de_definicao.png)
 
