@@ -28,7 +28,7 @@ necessidade de inserir o domínio, se o arquivo não estiver no mesmo folder, vo
 
 #### Abrindo link em uma aba diferente da atual:
 Ao clicar em um link, por padrão, ele irá abrir na página atual, acontece que o usuário pode não querer abandonar a página atual enquanto visita o conteúdo
-do link, para isso devemos utilizar o atributo ```target`` seguido do valor ```-blank``
+do link, para isso devemos utilizar o atributo ```target``` seguido do valor ```-blank```
 
 ***Exemplo:***
 ```html
