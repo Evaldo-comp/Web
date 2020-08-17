@@ -13,7 +13,7 @@ O conteúdo deste repositório será dividido inicialmente em 3 partes <strong>(
 - HTML   
    -  [Estrutura](https://github.com/Evaldo-comp/Web/blob/master/HTML/Estrutura/Estrutura.md "Estrutura")
    -  [Texto](https://github.com/Evaldo-comp/Web/blob/master/HTML/Texto.md)
-   -  Listas: em desenvolvimento
+   -  [Listas](https://github.com/Evaldo-comp/Web/blob/master/HTML/Listas.md) 
  
 
 :tractor:  *OBS: Conteúdo em desenvolvimento*
