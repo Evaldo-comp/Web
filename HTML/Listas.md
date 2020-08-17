@@ -19,7 +19,7 @@ A diferença entre cada uma delas pode ser melhor percebida nos exemplos seguint
 
 :earth_americas: ***No Browzer:***
 
-![lista Ordenada](https://github.com/Evaldo-comp/Web/blob/master/HTML/Exemplos/Lista%20Ordenada.png)
+![lista Ordenada](https://github.com/Evaldo-comp/Web/blob/master/HTML/Exemplos/Capturas/Lista%20Ordenada.png)
 
 
 ***Exemplo de lista Não Ordenada***:
@@ -38,12 +38,12 @@ A diferença entre cada uma delas pode ser melhor percebida nos exemplos seguint
 
 :earth_americas: ***No Browzer:***
 
-![lista Não Ordenada](https://github.com/Evaldo-comp/Web/blob/master/HTML/Exemplos/Lista_%20n%C3%A3o_%20Ordenada.png)
+![lista Não Ordenada](https://github.com/Evaldo-comp/Web/blob/master/HTML/Exemplos/Capturas/Lista_%20n%C3%A3o_%20Ordenada.png)
 
 
 #### Listas de definição
-o nome é autoexplicativo, são listas criadas para facilitar a organização entre dois elementos, um a ser definido e a definição do mesmo. Essa lista é gerada a partir da tag
-```<dl></dl>``` cada termo a ser definido dentro desta lista deve vir entre as tags ```<dt></dt>``` e a definição propriamente dita deve ser colocada entre as tags ```<dd></dd>```.
+
+O nome é autoexplicativo, são listas criadas para facilitar a organização entre dois elementos, um a ser definido e a definição do mesmo. Essa lista é gerada a partir da tag ```<dl></dl>``` cada termo a ser definido dentro desta lista deve vir entre as tags ```<dt></dt>``` e a definição propriamente dita deve ser colocada entre as tags ```<dd></dd>```.
 
 ***Exemplo:***
 ```html
