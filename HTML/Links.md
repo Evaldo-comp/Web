@@ -59,7 +59,19 @@ Para abrir um link dentro de uma mesma página, vocẽ deve indicar o local para
 		<a href="#Paragrafo01">Voltar ao topo</a>
     ```
     
-    
+#### linkando uma parte específica de outra página:
+A técnica é a mesma que anterior, a diferença é que inserimos a url da pagina, dentro dessa url o último elemento  que sinaliza a parte específica da página destino deve vir seguida de ```#```.
+
+***Exemplo:***
+```html
+<a href=”http://www.meusite.com/#contados”></a>
+<!--essa estrutura irá levar o usuário para a página de contatos deste site. -- >
+
+```
+
+:house:[HOME](https://github.com/Evaldo-comp/Web)
+
+
 
 
 
