@@ -18,7 +18,7 @@ necessidade de inserir o domínio, se o arquivo não estiver no mesmo folder, vo
 </ul>
 ```
 #### link para email:
-É possível criar um link que levará o usuário para um aplicativo de e-mail ou abra seu e-mail no browser, para isso  o atributo href deve iniciar com ``m̀ailto``:.
+É possível criar um link que levará o usuário para um aplicativo de e-mail ou abra seu e-mail no browser, para isso  o atributo href deve iniciar com ```m̀ailto```:.
 
 ***Exemplo:***
 ```html
