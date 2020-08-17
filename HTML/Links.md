@@ -38,7 +38,7 @@ do link, para isso devemos utilizar o atributo ```target`` seguido do valor ```-
 
 #### Abrindo link dentro da mesma página:
 Para abrir um link dentro de uma mesma página, vocẽ deve indicar o local para qual será direcionado ao clicar no link, essa identificação é feito com o atributo
-```id``,no atributo ```href``` do link a ser clicado deve-se colocar como valor o nome do id antecipado por ```#```, veja o exemplo:
+```id```,no atributo ```href``` do link a ser clicado deve-se colocar como valor o nome do id antecipado por ```#```, veja o exemplo:
 
 ***Exemplo:***
 ```html
