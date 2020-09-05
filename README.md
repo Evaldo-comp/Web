@@ -15,6 +15,7 @@ O conteúdo deste repositório será dividido inicialmente em 3 partes <strong>(
    -  [Texto](https://github.com/Evaldo-comp/Web/blob/master/HTML/Texto.md)
    -  [Listas](https://github.com/Evaldo-comp/Web/blob/master/HTML/Listas.md) 
    -  [Links](https://github.com/Evaldo-comp/Web/blob/master/HTML/Links.md)
+   -  [Imagens](https://github.com/Evaldo-comp/Web/blob/master/HTML/Imagens.md)
  
 
 :tractor:  *OBS: Conteúdo em desenvolvimento*
