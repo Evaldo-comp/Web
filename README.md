@@ -19,3 +19,7 @@ O conteúdo deste repositório será dividido inicialmente em 3 partes <strong>(
  
 
 :tractor:  *OBS: Conteúdo em desenvolvimento*
+
+#### Referências:
+
+DUCKETT, Jon. HTML CSS Design and Build Websites. John Wiley & Sons, Inc.
