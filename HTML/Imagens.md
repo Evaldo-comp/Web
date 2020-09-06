@@ -35,8 +35,13 @@ O elemento ```<figure >``` foi introduzido no HTML5 e serve como um container de
 </html>
 ```
 
-No Browzer:
-![]()
+:earth_americas: ***No Browzer:***
+
+![Imagens](https://github.com/Evaldo-comp/Web/blob/master/HTML/Exemplos/Capturas/img01.png)
+
+______
+
+:house: [HOME](https://github.com/Evaldo-comp/Web)
 
 
 
