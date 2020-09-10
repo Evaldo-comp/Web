@@ -68,11 +68,13 @@ Essa tag irá guardar o rodapé da tabela
 	</body>
 ```
 
-:eart: No Browzer 
+:earth_americas: ***No Browzer:***
+
+
 ![Tabela](https://github.com/Evaldo-comp/Web/blob/master/HTML/Exemplos/Capturas/tabela.png)
 
 
-:house:[HOME]()
+:house: [HOME](https://github.com/Evaldo-comp/Web)
 
 
 
