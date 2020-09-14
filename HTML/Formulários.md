@@ -32,7 +32,7 @@ Text input - single line: Utilizado para coletar uma informação de texto curta
 	<textarea name="sugestões">Deixe aqui suas sugestões</textarea>
 </form>
 ```
-:eath_americas: *No Browser*:
+:earth_americas: *No Browser*:
 
 ![Text Área](https://github.com/Evaldo-comp/Web/blob/master/HTML/Exemplos/Capturas/textarea.png)
 
