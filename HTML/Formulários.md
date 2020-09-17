@@ -146,7 +146,7 @@ ______
 
 ##### File input box:
 
-Se você quiser que o usuário faça o upload de algum arquivo, foto, música, vídeo etc, esse é o elemento indicado para esta operação, dentro da tag principal ```<form>``` o atributo *method* deve estar inicializado com o valor *“post”*. Esse elemento conta com umtipo de input expecial que receb o como valor *"file"*, as estrutura completa completa fica assim: ```type = “file"```, ele cria uma caixa de texto com um botão que ao ser clicado abre a janela do gerenciador de arquivos do sistemas operacional.
+Se você quiser que o usuário faça o upload de algum arquivo, foto, música, vídeo etc, esse é o elemento indicado para esta operação, dentro da tag principal ```<form>``` o atributo *method* deve estar inicializado com o valor *“post”*. Esse elemento conta com dois tipos de inputs expeciais. O primeiro deles  *"file"*, as estrutura completa completa fica assim: ```type = “file"```, ele cria uma caixa de texto com um botão que ao ser clicado abre a janela do gerenciador de arquivos do sistemas operacional. O outro é  ```“submit”```,  este elemento gera um botão usado para submeter o formulário aos servidor.
 
 ##### Exemplo:
 ```html
@@ -164,6 +164,37 @@ method="post">
 ![File_Submit](https://github.com/Evaldo-comp/Web/blob/master/HTML/Exemplos/Capturas/file_submit.png)
 
 ______
+
+#### Agrupando elementos de formulário:
+
+Você pode agrupar   formulários relacionados utilizando o elemento ```<fieldset>```,a estrutura é bem simples,inicia-se com a tag de abertura ```<fieldset>``` e encerra-se com tag de fechamento ```</fieldset>```, entre essas tags os formulários são alocados utilizando sua estrutura padrão, pode-se adicionar uma tag extra para identificar o grupo, a tag ```<legend>``` faz esse trabalho.
+
+##### Exemplo:
+```html
+<fieldset>
+    <legend>Contact details</legend>
+    <label>Email:<br />
+    <input type="text" name="email" /></label><br />
+    <label>Mobile:<br />
+    <input type="text" name="mobile" /></label><br />
+    <label>Telephone:<br />
+    <input type="text" name="telephone" /></label>
+</fieldset>
+```
+
+:earth_americas: *No Browzer:*
+
+![fieldset](https://github.com/Evaldo-comp/Web/blob/master/HTML/Exemplos/Capturas/fieldset.png)
+
+
+______
+
+
+
+
+
+
+
 
 
 
