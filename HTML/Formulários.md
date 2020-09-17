@@ -190,6 +190,62 @@ Você pode agrupar   formulários relacionados utilizando o elemento ```<fieldse
 ______
 
 
+#### Validação de Formulário:
+
+O usuário recebe um alerta se algo está faltando no formulário, ou alguma informação fornecida não corresponde ao formato esperado, esse tipo de alerta é chamado de validação de formulário, normalmente é realizada utilizando JavaScript, mas atualmente o HTML consegue fazer essa validação sem utilização de outra linguagem.
+
+##### Exemplo:
+```html
+<form action="http://www.example.com/login/" method="post">
+	<label for="username">Username:</label>
+		<input type="text" name="username" required="required" /></title><br />
+		<br/>
+	<label for="password">Password:</label>
+		<input type="password" name="password" required="required" />
+		<br/>
+		<input type="submit" value="Submit" />
+</form>
+```
+
+______
+
+
+#### DATE  input em HTML 5:
+É um simples caminho fornecido pelo html 5 para coletar data sem necessariamente precisar utilizar um text input, para isso basta usar o atributo type com valor “date”. Da mesma forma podemos criar um elemento específico para coletor e-mail, url ou busca, basta modificar o valor de atributo type para ```“email”```,  ```“url”```, ou ```“search”``` respectivamente. Adicionalmente para tornar o formulário mais legível ao usuário pode-se utilizar o atributo placeholder, que mostra uma dica de preenchimento ao usuário, essa dica é equivalente. 
+
+##### Exemplo:
+```html
+<form action="http://www.example.com/bookings/"
+         method="post">
+    <label for="username">Departure date:</label>
+    <input type="date" name="depart" />
+    <input type="submit" value="Submit" />
+    	<br/>
+		<br/>
+    <input type="email" name="email" placeholder="identifcador@email.com" />
+    <input type="submit" value="Submit" />
+    	<br/>
+		<br/>
+    <input type="url" name="url"  placeholder="http://endereçodosite.com" />
+    <input type="submit" value="Submit" />
+</form>
+```
+
+:earth_americas: *No Browzer:*
+
+![date](https://github.com/Evaldo-comp/Web/blob/master/HTML/Exemplos/Capturas/date.png)
+
+______
+
+
+
+
+
+
+
+
+
+
 
 
 
