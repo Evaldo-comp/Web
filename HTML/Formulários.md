@@ -9,7 +9,9 @@ ______
 
 ##### Adicionando Textos
 
-Text input - single line: Utilizado para coletar uma informação de texto curta, como por exemplo, nome ou e-mail.
+#### Text input - (Single line):
+
+Utilizado para coletar uma informação de texto curta, como por exemplo, nome ou e-mail.
 
 ##### Exemplo:
 ```html
