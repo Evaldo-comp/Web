@@ -102,6 +102,36 @@ Exemplo:
 ______
 
 
+#### Checkboxes:
+
+São utilizados quando são possíveis escolher mais de uma opção como resposta, ou seja quando são permitidos mais de uma campo selecionado.
+Possui como atributos ```name```, ```value``` e ```checked``` que exerce basicamente a mesma função dos outros tipos de inputs.<br/>
+
+##### Exemplo:
+```html
+<form action="http://www.example.com/profile.php">
+<p>Selecione seu serviço de stream de vídeo favorito:<br />
+<input type="checkbox" name="service"
+         value="Netflix" checked="checked" /> Netflix
+         <input type="checkbox" name="service"
+         value="amazonPrime" /> Amazon Prime
+<input type="checkbox" name="service"
+             value="globoPlay" /> Globo Play</p>
+</form>
+```
+
+:earth_americas: *No Browzer:*
+
+![Checkbox](https://github.com/Evaldo-comp/Web/blob/master/HTML/Exemplos/Capturas/CHECKBOX.png
+)
+
+
+
+
+https://github.com/Evaldo-comp/Web/blob/master/HTML/Exemplos/Capturas/CHECKBOX.png
+
+
+
 
 
 
