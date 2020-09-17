@@ -46,7 +46,7 @@ ______
 
 #### Password input:
 
-Caixa específica para coletar Senha.Quando o tipo do atributo type é password, é criado um box de linha única que recebe apenas caracteres, essa caixa esconde os dados digitados. Os atributos ```name```, ```size```, têm a mesma função que nos outros tipos de inputs, que são respectivamente nomear o elemento para ser direcionado corretamente para o servidor e indicar o tamanho da caixa, respectivamente, nesse caso temos ainda o ```maxlenght``` que indica o tamanho da senha.
+Caixa específica para coletar Senha.Quando o tipo do atributo type é password, é criado um box de linha única que recebe apenas caracteres, essa caixa esconde os dados digitados. Os atributos ```name```, ```size```, têm a mesma função que nos outros tipos de inputs, que são respectivamente nomear o elemento para ser direcionado corretamente para o servidor e indicar o tamanho da caixa, nesse caso temos ainda o ```maxlenght``` que indica o tamanho da senha.
 
 ##### Exemplo:
 ```html
@@ -61,6 +61,52 @@ Caixa específica para coletar Senha.Quando o tipo do atributo type é password,
 :earth_americas: *No Browzer:*
 
 ![Password](https://github.com/Evaldo-comp/Web/blob/master/HTML/Exemplos/Capturas/password.png)
+
+______
+
+#### Elementos de Seleção:
+
+##### Radio buttons:
+
+Utilizado em situações onde você só pode escolher uma das opções:
+
+type = “radio”>
+Radio buttons aceita apenas uma opção selecionada os atributos desse elemento são:
+
+```name```:  É enviado ao servidor juntamente com o valor escolhido pelo usuário.
+
+```value```: Armazena  a opção selecionada pelo usuário 
+
+```Cheked```:Esse atributo deve ser utilizado ppara indicar qual o valor deve ser selecionado quando a página carregar
+
+Exemplo:
+```html
+<form action="http://www.example.com/profile.php">
+	<p>Por favor escolha o seu gênero:<br />
+		<input type="radio" name="genero" value="masculino"
+         	checked="checked" /> Masculino
+		<input type="radio" name="genero" value="Feminino" />
+         	Feminino
+		<input type="radio" name="genero" value="Outro" />
+         	Outro
+	</p>
+</form>
+```
+
+
+:earth_americas: *No Browzer:*
+
+![RadioButton](https://github.com/Evaldo-comp/Web/blob/master/HTML/Exemplos/Capturas/radiobutton.png)
+
+
+______
+
+
+
+
+
+
+
 
 
 
