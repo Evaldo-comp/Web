@@ -226,7 +226,7 @@ ______
     <input type="submit" value="Submit" />
     	<br/>
 		<br/>
-    <input type="url" name="url"  placeholder="http://endereçodosite.com" />
+    <input type="url" name="url"  placeholder="http://www.endereçodosite.com" />
     <input type="submit" value="Submit" />
 </form>
 ```
