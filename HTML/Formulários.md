@@ -66,11 +66,10 @@ ______
 
 #### Elementos de Seleção:
 
-##### Radio buttons:
+##### Radio button:
 
 Utilizado em situações onde você só pode escolher uma das opções:
 
-type = “radio”>
 Radio buttons aceita apenas uma opção selecionada os atributos desse elemento são:
 
 ```name```:  É enviado ao servidor juntamente com o valor escolhido pelo usuário.
@@ -79,7 +78,7 @@ Radio buttons aceita apenas uma opção selecionada os atributos desse elemento 
 
 ```Cheked```:Esse atributo deve ser utilizado ppara indicar qual o valor deve ser selecionado quando a página carregar
 
-Exemplo:
+##### Exemplo:
 ```html
 <form action="http://www.example.com/profile.php">
 	<p>Por favor escolha o seu gênero:<br />
@@ -122,8 +121,7 @@ Possui como atributos ```name```, ```value``` e ```checked``` que exerce basicam
 
 :earth_americas: *No Browzer:*
 
-![Checkbox](https://github.com/Evaldo-comp/Web/blob/master/HTML/Exemplos/Capturas/CHECKBOX.png
-)
+![Checkbox](https://github.com/Evaldo-comp/Web/blob/master/HTML/Exemplos/Capturas/CHECKBOX.png)
 
 
 
