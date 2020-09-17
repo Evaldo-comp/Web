@@ -8,7 +8,7 @@ O objetivo principal deste repósitorio é armazenar de forma estruturada o cont
 ------------
 
 ####  Organização do Conteúdo
-O conteúdo deste repositório será dividido inicialmente em 3 partes <strong>(HTML, CSS e JavaScript</strong>, todos podem ser acessados facilmente através dos links disponibilizados a seguir. Os links irão direcioná-lo para um arquivo com o conteúdo teórico que por sua vez tem links para fontes externas ou exemplos de código do próprio repositório, mas sinta-se a vontade para navegar pelas pastas e sugerir correções.
+O conteúdo deste repositório será dividido inicialmente em 3 partes <strong>(HTML, CSS e JavaScript)</strong>, todos podem ser acessados facilmente através dos links disponibilizados a seguir. Os links irão direcioná-lo para um arquivo com o conteúdo teórico que por sua vez tem links para fontes externas ou exemplos de código do próprio repositório, mas sinta-se a vontade para navegar pelas pastas e sugerir correções.
 
 - HTML   
    -  [Estrutura](https://github.com/Evaldo-comp/Web/blob/master/HTML/Estrutura/Estrutura.md "Estrutura")
@@ -17,6 +17,7 @@ O conteúdo deste repositório será dividido inicialmente em 3 partes <strong>(
    -  [Links](https://github.com/Evaldo-comp/Web/blob/master/HTML/Links.md)
    -  [Imagens](https://github.com/Evaldo-comp/Web/blob/master/HTML/Imagens.md)
    -  [Tabelas](https://github.com/Evaldo-comp/Web/blob/master/HTML/Tabelas.md)
+   - Formulários - Em Breve
  
 
 :tractor:  *OBS: Conteúdo em desenvolvimento*

@@ -34,7 +34,7 @@ Text input - single line: Utilizado para coletar uma informação de texto curta
 ```
 :earth_americas: *No Browser*:
 
-![Text Área](https://github.com/Evaldo-comp/Web/blob/master/HTML/Exemplos/Capturas/textarea.png)
+![Text Área](https://github.com/Evaldo-comp/Web/blob/master/HTML/Exemplos/Capturas/textarea1.png)
 
 #### Password input: - Caixa específica para coletar Senha.
 
