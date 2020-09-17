@@ -82,8 +82,8 @@ Radio buttons aceita apenas uma opção selecionada os atributos desse elemento 
 ```html
 <form action="http://www.example.com/profile.php">
 	<p>Por favor escolha o seu gênero:<br />
-		<input type="radio" name="genero" value="masculino"
-         	checked="checked" /> Masculino
+		<input type="radio" name="genero" value="masculino" checked="checked" />
+         	 Masculino
 		<input type="radio" name="genero" value="Feminino" />
          	Feminino
 		<input type="radio" name="genero" value="Outro" />
@@ -109,13 +109,14 @@ Possui como atributos ```name```, ```value``` e ```checked``` que exerce basicam
 ##### Exemplo:
 ```html
 <form action="http://www.example.com/profile.php">
-<p>Selecione seu serviço de stream de vídeo favorito:<br />
-<input type="checkbox" name="service"
-         value="Netflix" checked="checked" /> Netflix
-         <input type="checkbox" name="service"
-         value="amazonPrime" /> Amazon Prime
-<input type="checkbox" name="service"
-             value="globoPlay" /> Globo Play</p>
+    <p>Selecione seu serviço de stream de vídeo favorito:<br />
+	<input type="checkbox" name="service" value="Netflix" checked="checked" /> 
+          Netflix
+         <input type="checkbox" name="service" value="amazonPrime" />
+          Amazon Prime
+	<input type="checkbox" name="service" value="globoPlay" />
+          Globo Play
+    </p>
 </form>
 ```
 
@@ -132,7 +133,7 @@ Também chamado de caixa de seleção, esse elemento consiste em uma lista suspe
 ```html
 <form action="http://www.example.com/profile.php">
   <p>Qual destes países foi o primeiro a sofrer com a pandemia?</p>
-  <select name="paises">
+   <select name="paises">
       <option value="brasil">Brasil</option>
       <option value="china">China</option>
       <option value="EUA">EUA</option>
@@ -215,17 +216,17 @@ ______
 
 ##### Exemplo:
 ```html
-<form action="http://www.example.com/bookings/"
-         method="post">
+<form action="http://www.example.com/bookings/" method="post">
+         
     <label for="username">Departure date:</label>
     <input type="date" name="depart" />
     <input type="submit" value="Submit" />
     	<br/>
-		<br/>
+	<br/>
     <input type="email" name="email" placeholder="identifcador@email.com" />
     <input type="submit" value="Submit" />
     	<br/>
-		<br/>
+	<br/>
     <input type="url" name="url"  placeholder="http://www.endereçodosite.com" />
     <input type="submit" value="Submit" />
 </form>
