@@ -36,7 +36,27 @@ Text input - single line: Utilizado para coletar uma informação de texto curta
 
 ![Text Área](https://github.com/Evaldo-comp/Web/blob/master/HTML/Exemplos/Capturas/textarea1.png)
 
-#### Password input: - Caixa específica para coletar Senha.
+#### Password input:
+
+Caixa específica para coletar Senha.Quando o tipo do atributo type é password, é criado um box de linha única que recebe apenas caracteres, essa caixa esconde os dados digitados. Os atributos ```name```, ```size```, têm a mesma função que nos outros tipos de inputs, que são respectivamente nomear o elemento para ser direcionado corretamente para o servidor e indicar o tamanho da caixa, respectivamente, nesse caso temos ainda o ```maxlenght``` que indica o tamanho da senha.
+
+##### Exemplo:
+```html
+<form action="http://www.servidor.php" method="get" >
+	<p>Password
+	
+		<input type="password" name="password" size="15" maxlength="30">
+	</p>
+</form>
+```
+
+
+:earth_americas: ##### No Browzer:
+
+![Password](https://github.com/Evaldo-comp/Web/blob/master/HTML/Exemplos/Capturas/password.png)
+
+
+
 
 
 
