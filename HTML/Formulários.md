@@ -5,6 +5,7 @@ Os formulários  são essenciais em qualquer website que precise coletar algum t
 ##### Como os formulários funcionam:
 As informações ao serem submetidas são enviadas a um  servidor, esse servidor processa as informações usando uma linguagem como PHP,  C# ou Java,  guarda as informações tratadas em um banco de dados e envia uma resposta baseada no que  for solicitado das informações armazenadas.
 
+______
 
 ##### Adicionando Textos
 
@@ -22,7 +23,9 @@ Text input - single line: Utilizado para coletar uma informação de texto curta
 
 ![Text Input](https://github.com/Evaldo-comp/Web/blob/master/HTML/Exemplos/Capturas/txtinput.png)
 
-##### Text - Área (mult-line):
+______
+
+##### TextÁrea (mult-line):
  Utilizado para coletar mensagens de texto maiores, como comentários ou mensagens.
  
  ##### Exemplos:
@@ -35,6 +38,9 @@ Text input - single line: Utilizado para coletar uma informação de texto curta
 :earth_americas: *No Browser*:
 
 ![Text Área](https://github.com/Evaldo-comp/Web/blob/master/HTML/Exemplos/Capturas/textarea1.png)
+
+______
+
 
 #### Password input:
 
@@ -50,8 +56,7 @@ Caixa específica para coletar Senha.Quando o tipo do atributo type é password,
 </form>
 ```
 
-
-:earth_americas: ##### No Browzer:
+:earth_americas: *No Browzer:*
 
 ![Password](https://github.com/Evaldo-comp/Web/blob/master/HTML/Exemplos/Capturas/password.png)
 
