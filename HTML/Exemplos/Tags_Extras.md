@@ -45,7 +45,11 @@ Alguns elementos quando são executados pelo browser sempre iniciam uma nova lin
 Alguns elementos são utilizados dentro do conteúdo de forma a não interromper o fluxo do texto, esses elementos são conhecidas como inline,as tags abrem e fecham no decorrer do texto sem ser necessário quebrar o conteúdo em blocos: ```<a>```, ```<b>```, ```<em>```, e ```<img>```.
 ```html
 
-Phasellus hendrerit, magna a <em>tincidunt ornare</em>, mi diam tempus nisi, et gravida elit nibh id dolor. In nec ullamcorper libero, a iaculis <b>massa</b>. Praesent id erat a arcu hendrerit varius ac vitae arcu. Etiam fermentum dictum mollis. Integer in neque pharetra, semper tortor nec, ullamcorper arcu. Nunc maximus vel urna ut consequat. Etiam gravida faucibus porta.rmentum dictum mollis. Integer in neque pharetra, semper tortor nec, ullamcorper arcu. Nunc maximus vel urna ut consequat. Etiam gravida faucibus porta.
+Phasellus hendrerit, magna a <em>tincidunt ornare</em>, mi diam tempus nisi, et gravida elit nibh id dolor.
+In nec ullamcorper libero, a iaculis <b>massa</b>. Praesent id erat a arcu hendrerit varius ac vitae arcu. 
+Etiam fermentum dictum mollis. Integer in neque pharetra, semper tortor nec, ullamcorper arcu. Nunc maximus 
+vel urna ut consequat. Etiam gravida faucibus porta.rmentum dictum mollis. Integer in neque pharetra, semper 
+tortor nec, ullamcorper arcu. Nunc maximus vel urna ut consequat. Etiam gravida faucibus porta.
 ```
 #### Agrupando texto e elementos em um bloco:<br/>
 A tag ```<div>``` permite que possamos agrupar vários elementos em um mesmo nível, funcionando como uma espécie de caixa, ou divisória, ao se nomear essa div podemos usar o CSS para aplicar configurações comuns a todos os elementos dentro dela.
@@ -111,10 +115,10 @@ description: No conteúdo vem a descrição do conteúdo da sua página, isso é
 ```
 #### Caracteres Reservados:<br/> 
 Alguns caracteres são reservados, ou seja,usados pelo html como por exemplo  ```<>``` utilizados para identificar as tags, por isso se esses caracteres forem digitados  irão causar um erro na apresentação do conteúdo ou simplesmente não aparecerão, se o objetivo é mostrar estes caracteres devemos utilizar códigos, seguem alguns deles:</br>
-- <     &lt:   ou  &#60:
-- >     &gt:   ou  &amp:
-- &     &amp:  ou  &#38:
-- “     &quot: ou  &#34
+- ```<```     &lt:   ou  &#60:
+- ```>```     &gt:   ou  &amp:
+- ```&```     &amp:  ou  &#38:
+- ```“```     &quot: ou  &#34
 
 Para fazer uma conversão direta utilize esse site <br/> 
 [Caracteres Especiais](https://www.freeformatter.com/html-escape.html#ad-output)
