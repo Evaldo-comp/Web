@@ -13,15 +13,20 @@ Comentários são úteis para ajudar a legibilidade do código e facilitar a man
 
 <!-- Isso é um comentário e não apareceŕa para o usuário -->
 ```
-#### IndentificadorID:<br/>
-Um atributo  ID serve para identificar um elemento para outros elementos, essa identificação pode começar com uma letra ou underline, ou seja, nada de números ou qualquer outro caractere para iniciar a identificação de um elemento. É importante ficar atento a intenção destes elementos para  não ocorrer a duplicação de nome dentro da mesma página, ou do mesmo projeto, isso pode dificultar a manutenção do código.
+#### Indentificador ID:<br/>
+Um atributo  ID serve para identificar um elemento para outros elementos, essa identificação pode começar 
+com uma letra ou underline, ou seja, nada de números ou qualquer outro caractere para iniciar a identificação
+de um elemento. É importante ficar atento a intenção destes elementos para  não ocorrer a duplicação de nome 
+dentro da mesma página, ou do mesmo projeto, isso pode dificultar a manutenção do código.
 ```html
 
 <p id = "paragrafo01">Donec ornare, leo ut dictum porttitor, sem dui tempus erat, sed molestie eros nisi et nunc. Phasellus ac massa metus. Aenean dictum, nisi in condimentum faucibus, justo velit semper ipsum, ut ornare tortor lorem et est.</p>
 <p id = "Paragrafo02">Mauris vitae erat laoreet, euismod odio nec, ornare nibh. Suspendisse potenti. Vestibulum id dignissim sem. Morbi quis dui a massa malesuada feugiat vitae tincidunt neque. Nullam pellentesque mollis aliquam. </p>
 ```
 #### Indentificador Class:<br/>
-Funciona de forma semelhante ao ID, a diferença é que o id é indicado para a identificação de um único elemento, com  atributos que não irão se repetir, ou terão uma ocorrência modesta dentro do código, já o atributo class, serve para identificar elementos que irão compartilhar alguns atributos, facilitando, desta forma a formatação dos mesmo.
+Funciona de forma semelhante ao ID, a diferença é que o id é indicado para a identificação de um único elemento,
+com  atributos que não irão se repetir, ou terão uma ocorrência modesta dentro do código, já o atributo class, 
+serve para identificar elementos que irão compartilhar alguns atributos, facilitando, desta forma a formatação dos mesmo.
 ```html
 
 <p class = "Paragrafo01">Donec ornare, leo ut dictum porttitor, sem dui tempus erat, sed molestie eros nisi et nunc. Phasellus ac massa metus. Aenean dictum, nisi in condimentum faucibus, justo velit semper ipsum, ut ornare tortor lorem et est.</p>
