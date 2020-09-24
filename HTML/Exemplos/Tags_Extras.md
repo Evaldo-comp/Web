@@ -67,7 +67,11 @@ A tag ```<div>``` permite que possamos agrupar vários elementos em um mesmo ní
 #### Agrupando textos e elementos inline:<br/>
 O ```<span>``` funciona de forma semelhante ao ```<div>``` mas agrupando elementos inline sem a necessidade da formação de blocos.
 ```html
-<p>Donec ornare, leo ut dictum porttitor, sem dui tempus erat, sed molestie eros nisi et nunc. Phasellus ac massa metus. Aenean <span class = "galeria">dictum, nisi in condimentum faucibus</span>, justo velit semper ipsum, ut ornare tortor lorem et est. Mauris vitae erat laoreet, euismod odio nec, ornare nibh. Suspendisse potenti. Vestibulum id dignissim sem.</p>
+<p>Donec ornare, leo ut dictum porttitor, sem dui tempus erat, sed molestie eros nisi et nunc. 
+    Phasellus ac massa metus. Aenean <span class = "galeria">dictum, nisi in condimentum 
+    faucibus</span>, justo velit semper ipsum, ut ornare tortor lorem et est. 
+    Mauris vitae erat laoreet, euismod odio nec, ornare nibh. Suspendisse potenti. 
+    Vestibulum id dignissim sem.</p>
 ```
 #### Iframes:<br/>
 São como pequenas janelas com um determinado conteúdo dentro de sua página, esse conteúdo pode ser um mapa, vídeo, imagem e até mesmo outro texto em destaque.
@@ -166,6 +170,10 @@ Para incluir áudio usa-se as tags ```<audio></audio>```, esse elemento funciona
 - autoplay<br/> 
 - preload<br/>
 - loop<br/>
+
+______
+
+:house:[HOME](https://github.com/Evaldo-comp/Web)
 
 
 
