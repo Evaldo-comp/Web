@@ -18,6 +18,7 @@ O conteúdo deste repositório será dividido inicialmente em 3 partes <strong>(
    -  [Imagens](https://github.com/Evaldo-comp/Web/blob/master/HTML/Imagens.md)
    -  [Tabelas](https://github.com/Evaldo-comp/Web/blob/master/HTML/Tabelas.md)
    -  [Formulários](https://github.com/Evaldo-comp/Web/blob/master/HTML/Formul%C3%A1rios.md)
+   -  [Tags Extras](https://github.com/Evaldo-comp/Web/blob/master/HTML/Exemplos/Tags_Extras.md)
  
 
 :tractor:  *OBS: Conteúdo em desenvolvimento*
