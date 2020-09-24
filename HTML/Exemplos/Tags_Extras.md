@@ -101,7 +101,7 @@ description: No conteúdo vem a descrição do conteúdo da sua página, isso é
 
 - <b>expires:</b> Normalmente os browzers guardam informações das páginas localmente em caches, esse atributo indica quando esse conteúdo devem expirar, ou seja, quando devem ser eliminados cache.
 ```html
-!DOCTYPE html>
+<!DOCTYPE html>
 <html>
   <head>
          <title>Informações sobre sua página</title>
