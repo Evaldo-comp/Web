@@ -21,7 +21,7 @@ Utilizado para coletar uma informação de texto curta, como por exemplo, nome o
 </form>
 ```
 
-:earth_americas: *No borowser*:
+:earth_americas: *No Browser*:
 
 ![Text Input](https://github.com/Evaldo-comp/Web/blob/master/HTML/Exemplos/Capturas/txtinput.png)
 
