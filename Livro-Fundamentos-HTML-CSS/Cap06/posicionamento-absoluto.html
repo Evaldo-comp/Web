@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Posicionamento Absoluto</title>
+    <style >
+        div {
+            
+            width: 1360px;
+            padding: 10px 20px;
+            border: 2px solid black;
+        }
+
+        div.container {
+            position: relative;
+        }
+        p {
+            border: 2px dotted black;
+            padding: 10px 20px;
+            
+        }
+        .tres {
+            position: absolute;
+            background: #ddd;
+            left: 90px;
+            top: 100px;
+        }
+    </style>
+</head>
+<body>
+    <p>Lorem ipsum blah  blah blah blah</p>
+    <div class="container">
+        <p>Alguma coisa sem importância</p>
+        <p class="tres">Outra coisa sem importância</p>
+        <p>Mais um parágrafo</p>
+
+    </div>
+    
+</body>
+</html>
