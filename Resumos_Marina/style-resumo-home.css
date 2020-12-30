@@ -8,16 +8,21 @@ body{
     margin: 1px;
 }
 
+
+
 nav {
    
-    position: absolute;
+
     top: 210px;
     height: 0;
 
 }
 
 nav ul {
+    display: block;
+    width: 100%;
     margin-top: 10px ;
+   
     
   
 }
@@ -25,7 +30,7 @@ nav ul {
 nav li {
     
     display: inline;
-    margin: 0 0 0 15px;
+    margin: 0 10px 10px 15px;
     padding: 0 30px;
     text-transform: uppercase;
     text-decoration: lightblue;
@@ -33,6 +38,41 @@ nav li {
 
 nav li, a:hover {
     cursor: pointer;
+}
+
+.principal p {
+   
+    margin: 0 0 1em;
+    position:static;
+}
+
+.titulo {
+ 
+    text-align: center;
+    font-size: 2em;
+    margin: 0 0 1em;
+}
+
+.livro {
+    width: 250px;
+    height: 200px;
+    float: left;
+    margin: 0px 20px 20px 20px;
+}
+
+
+.main {
+    margin-top: 70px;
+
+}
+footer {
+    text-align: center;
+    padding:  40px 0; 
+  
+}
+
+.copyright {
+    margin: 20px;
 }
 
 

@@ -157,3 +157,36 @@ td, th {
 }
 
 
+/* css da pagina inicial*/
+.banner {
+    width: 100%;
+}
+
+.titulo{
+    text-align: center;
+    font-size: 2em;
+    margin:0 0 1em;
+    clear: left;
+}
+
+.principal p{
+    margin: 0 0 1em;
+
+}
+
+.principal strong{
+    font-weight: bold;
+}
+
+.principal em {
+    font-style: italic;
+}
+.imagenbeneficios {
+    width: 60%;
+}
+
+.utensilios {
+    width: 150px;
+    float: left;
+}
+
