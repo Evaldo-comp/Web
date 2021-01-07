@@ -1,27 +1,35 @@
 body{
-    background: rgb(182, 161, 179);
+    background: linear-gradient(#a987ad, #ffff);
 }
 
 #banner {
     width: 100%;
-    height: 200px;
-    margin: 1px;
+    height: 300px;
+    
 }
 
 
 
-nav {
+.navbar {
+   
+    top: 210px;
+    height: 10px;
+    margin: 0 0 70px 0;
+    
    
 
-    top: 210px;
-    height: 0;
-
+}
+.menu:hover{
+   
 }
 
 nav ul {
-    display: block;
+
+    padding: 20px 1px;
+    text-align: center;
     width: 100%;
-    margin-top: 10px ;
+    background: rgb(0, 0, 0);
+   
    
     
   
@@ -30,16 +38,27 @@ nav ul {
 nav li {
     
     display: inline;
-    margin: 0 10px 10px 15px;
-    padding: 0 30px;
+    margin: 0 5px ;
+    padding: 19px;
+    font: menu;
+
     text-transform: uppercase;
-    text-decoration: lightblue;
+   
+    
+}
+
+.navbar a {
+    color: seashell;
+    text-decoration: none;
 }
 
 nav li, a:hover {
     cursor: pointer;
 }
-
+nav li:hover {
+    cursor: pointer;
+    background: royalblue;
+}
 .principal p {
    
     margin: 0 0 1em;
@@ -62,12 +81,14 @@ nav li, a:hover {
 
 
 .main {
-    margin-top: 70px;
+    
 
 }
 footer {
+    background: rgb(196, 137, 211);
     text-align: center;
-    padding:  40px 0; 
+    margin: 50px 0 0;
+    padding:  20px 0; 
   
 }
 
