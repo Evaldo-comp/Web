@@ -16,11 +16,12 @@ body{
     height: 10px;
     margin: 0 0 70px 0;
     
+    
    
 
 }
-.menu:hover{
-   
+.menu{
+  
 }
 
 nav ul {
@@ -28,11 +29,7 @@ nav ul {
     padding: 20px 1px;
     text-align: center;
     width: 100%;
-    background: rgb(0, 0, 0);
-   
-   
-    
-  
+    background: rgb(0, 0, 0); 
 }
 
 nav li {
@@ -41,8 +38,8 @@ nav li {
     margin: 0 5px ;
     padding: 19px;
     font: menu;
-
     text-transform: uppercase;
+    transition: 400ms;
    
     
 }
@@ -54,10 +51,12 @@ nav li {
 
 nav li, a:hover {
     cursor: pointer;
+    transition: 400ms;
 }
 nav li:hover {
     cursor: pointer;
     background: royalblue;
+    box-shadow:  5px 5px 3px rgb(238, 245, 247) 
 }
 .principal p {
    
@@ -96,5 +95,8 @@ footer {
     margin: 20px;
 }
 
+.video{
+    width: 100%;
+}
 
 
