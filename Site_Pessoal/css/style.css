@@ -1,0 +1,40 @@
+body {
+    background-color: #1d1f21;
+    color: #c9cacc;
+    font-family: Menlo,Meslo LG,monospace;
+    font-size: 14px;
+    letter-spacing: 0.1rem;
+    display: block;
+    margin: 3rem 3rem 0rem 3rem;
+    margin-left: 3rem;
+    font-weight: 700;
+    font-style: normal;
+    margin: 0 px 40px 0px 40px;
+    box-sizing: border-box;
+    line-height: 1.725;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.titulos{
+    color: #2bbc8a;;
+    font-size: 2em;
+}
+.subtitulo{
+    font-size: 1.2em;
+    color: #666;
+}
+p {
+    color: ivory;
+    font-weight:normal;
+    letter-spacing: .01em;
+    text-align: justify;
+}
+main .titulos{
+    font-size: 1.5rem;
+}
+.img-git{
+    border-image-width: 10px;
+}
+.icones-link{
+    text-transform: none;
+}
