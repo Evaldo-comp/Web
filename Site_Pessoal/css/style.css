@@ -32,9 +32,14 @@ p {
 main .titulos{
     font-size: 1.5rem;
 }
-.img-git{
-    border-image-width: 10px;
+
+.img-icon{
+   
+    filter:invert(80%);
+    
 }
-.icones-link{
-    text-transform: none;
+.img-icon:hover{
+   
+   filter: drop-shadow(0px -1px 5px #16db37);
+    
 }
