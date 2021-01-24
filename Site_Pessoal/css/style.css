@@ -43,3 +43,34 @@ main .titulos{
    filter: drop-shadow(0px -1px 5px #16db37);
     
 }
+
+
+.column h2{
+    float:right;
+   
+}
+.lista-sobre-mim{
+
+   
+}
+.lista-sobre-paixoes{
+   
+}
+.lista-sobre-foco{
+
+}
+.row{
+    margin: auto;
+    max-width: 450px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+.row ul {
+    list-style-type: none;
+}
+.row ul li {
+    margin-top: 7px;
+    padding-bottom: 3px;
+    border-bottom: 1px solid #266fc5;
+}
