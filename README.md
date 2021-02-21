@@ -7,9 +7,9 @@ O conteúdo deste repositório será dividido inicialmente em 3 partes <strong>(
 O objetivo principal deste repósitorio é armazenar de forma estruturada o conteúdo básico para quem quer começar a aprender desenvolvimento WEB, inicialmente será alimentado com o básico, mas a intensão é ampliar a quantidade de conteúdo afim de atingir outros níveis.
 
 ------------
-
-
-  <span align="center"><img align="center" src="https://github.com/Evaldo-comp/Web/blob/master/HTML/html5.png" width="150px" height="150px" align="center"/></span>
+<h2 align="center">
+  <img align="center" src="https://github.com/Evaldo-comp/Web/blob/master/HTML/html5.png" width="150px" height="150px" align="center"/>
+</h2>
 
 - HTML   
    -  [Estrutura](https://github.com/Evaldo-comp/Web/blob/master/HTML/Estrutura/Estrutura.md "Estrutura")
