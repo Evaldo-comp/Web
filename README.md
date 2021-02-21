@@ -9,7 +9,7 @@ O objetivo principal deste repósitorio é armazenar de forma estruturada o cont
 ------------
 
 
- <img align="center" src="https://github.com/Evaldo-comp/Web/blob/master/HTML/html5.png" width="250px" height="250px" align="center"/>
+  <span align="center"><img align="center" src="https://github.com/Evaldo-comp/Web/blob/master/HTML/html5.png" width="150px" height="150px" align="center"/></span>
 
 - HTML   
    -  [Estrutura](https://github.com/Evaldo-comp/Web/blob/master/HTML/Estrutura/Estrutura.md "Estrutura")
