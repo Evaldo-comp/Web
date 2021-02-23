@@ -12,7 +12,7 @@ O objetivo principal deste repósitorio é armazenar de forma estruturada o cont
   <img align="center" src="https://github.com/Evaldo-comp/Web/blob/master/HTML/html5.png" width="150px" height="150px" align="center"/>
 </h2>
 
-
+------------
 - HTML   
    -  [Estrutura](https://github.com/Evaldo-comp/Web/blob/master/HTML/Estrutura/Estrutura.md "Estrutura")
    -  [Texto](https://github.com/Evaldo-comp/Web/blob/master/HTML/Texto.md)
@@ -24,16 +24,18 @@ O objetivo principal deste repósitorio é armazenar de forma estruturada o cont
    -  [Tags Extras](https://github.com/Evaldo-comp/Web/blob/master/HTML/Exemplos/Tags_Extras.md)
  
  
- 
+ ------------
 <h2 align="center">
   <img align="center" src="https://github.com/Evaldo-comp/Web/blob/master/CSS/css.png" width="110px" height="170px" align="center"/>
 </h2>
 ---
+------------
 
 - CSS
   -  [Conceitos e Definições](https://github.com/Evaldo-comp/Web/blob/master/CSS/Conceitos_e_Defini%C3%A7%C3%B5es.md)
 
 
+------------
 
 
 :tractor:  *OBS: Conteúdo em desenvolvimento*
