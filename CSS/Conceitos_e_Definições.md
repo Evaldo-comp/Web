@@ -20,3 +20,31 @@ Uma regra CSS é a menor parte de uma folha de estilo que consegue causar alguma
 **Propriedade:** Determina qual característica do selector será modificada
 
 **Valor:** Indica como, ou o quanto essa propriedade será estilizada.
+
+Uma regra CSS pode ter uma ou várias declarações como podemos observar no exemplo
+```CSS
+p {
+    color: red;
+    align = "center";
+    font-size: 14px;
+    }
+```
+
+O trecho acima possui três declarações dentro de uma gragra que estiliza um único elemento do HTML, no caso um paragráfo, 
+
+Quando uma declaração se encaixa em mais de um seletor, estes podem ser agrupados e separados por vígula.
+```CSS
+p, h1, a { font-size: 12px; }
+```
+
+>> :pen: Dica: Valores como palavras compostas:<br>
+> São dois casos possiveis: 
+
+> Palavras compostas sem hífem: Utiliza-se aspas duplas ou simples no valor
+```CSS
+p {font-family: "Times New Roman";}
+```
+> Palavras compostas com hífem
+```CSS
+p{font-family:sans-serif;}
+```
