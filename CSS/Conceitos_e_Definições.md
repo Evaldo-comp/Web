@@ -1,6 +1,6 @@
 # Conceitos e Definições
 
-## O que é o CSS?:
+## :large_blue_diamond: O que é o CSS?:
 
 CSS é a sigla da expressão inglês (*Cascading Style Sheet*), que traduzindo significa uma folha de estilo em cascata, mas por que em casacata? por que a forma como
 as modifcações são organizadas dentro de uma folha de estilo segue um certo nivel de hieraquia descenbte, considerando a prioridade destes itens dentro do HTML
@@ -49,3 +49,20 @@ Palavras compostas com hífem
 p{font-family:sans-serif;}
 ```
 ---
+## Cometários
+O CSS assim como toda lingagem de programção possui uma forma deinserirmos comentarioos do coprpo do código:
+**Cometáios de linha única**
+```CSS
+/* Esse é um cometário de linha única que não será renderizado pelo navegador*/
+```
+**Comentário em bloco**
+```CSS
+/* O que está
+dentro deste
+bloco 
+não interfere na 
+estilização
+*/
+```
+
+
