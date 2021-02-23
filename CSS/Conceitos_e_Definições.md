@@ -36,15 +36,16 @@ Quando uma declaração se encaixa em mais de um seletor, estes podem ser agrupa
 ```CSS
 p, h1, a { font-size: 12px; }
 ```
+---
+:pen: Dica: Valores como palavras compostas:<br>
+São dois casos possiveis: 
 
->> :pen: Dica: Valores como palavras compostas:<br>
-> São dois casos possiveis: 
-
-> Palavras compostas sem hífem: Utiliza-se aspas duplas ou simples no valor
+Palavras compostas sem hífem: Utiliza-se aspas duplas ou simples no valor
 ```CSS
 p {font-family: "Times New Roman";}
 ```
-> Palavras compostas com hífem
+Palavras compostas com hífem
 ```CSS
 p{font-family:sans-serif;}
 ```
+---
