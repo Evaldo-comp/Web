@@ -1,22 +1,27 @@
 body{
     background: linear-gradient(#7d8fe0, rgb(75, 109, 119));
+   
 }
-
+header{
+    margin: 1em 3em ;
+}
+.main{
+    margin: 1em 3em ;
+}
 #banner {
     width: 100%;
     height: 300px;
- 
-    
 }
 
 .navbar {
-    top: 210px;
+   
     height: 10px;
-    margin: 0 0 70px 0;
+    margin: 5px 0px;
     
 }
 .menu{
     background-color: rgba(7, 7, 7, 0.3);
+    margin: 0px;
    /*transition: 900ms   */
     
 }
@@ -25,9 +30,8 @@ nav ul {
 
     padding: 20px 1px;
     text-align: center;
-    width: 100%;
-    /*background: rgb(0, 0, 0);*/
    
+    /*background: rgb(0, 0, 0);*/   
 }
 
 nav li {
@@ -37,10 +41,7 @@ nav li {
     padding: 19px;
     font: menu;
     text-transform: uppercase;
-    transition: 400ms;
-    
-   
-    
+    transition: 400ms;    
 }
 
 .navbar a {
@@ -71,59 +72,66 @@ nav li:hover {
     font-size: 2em;
     margin: 0 0 1em;
 }
-.main {
+
+.grid-container{
+    display: grid;
+    grid-template-columns:33.33% 33.33% 33.33% ;
+    padding: 3px;
+    margin-top: 3em;
+    width: 99%;
+    grid-gap: .3em;
+  
+}
+
+.grid-item{
+    border: 1px solid rgba(7, 7, 7, 0.3);
+    padding: 5px;
+    grid-template-columns: 50px 50px;
+}
+
+.grid-item-cap{
+    border: 2px solid rgba(7, 7, 7, 0.3);
+    padding: 5px;
+    background-color: rgba(230, 205, 240, 0.3);     
+}
+
+.img-capa{
+    margin: 0px 0px 0px 60px;
+    padding: 5px;
     
-
 }
-
-.box-ficha {
-    border: 1px solid black;
-    
+.grid-item-cont{
+    border: 1px solid rgba(7, 7, 7, 0.3);
+    padding: 18px;
 }
-
-.capa {
-    /*border: 1px solid black;*/
-    float: left;
-    display:block;
-    margin:0px 0px 0px 300px;
-    background: linear-gradient(#f5cfcf, #716d77);
-
-   
-
-}
-
-.dados {
-    /*border: 1px solid black;*/
-   
+.titulo{
     text-align: center;
-    text-size-adjust: 12px;
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Lexend Mega', sans-serif;
 }
-.img {
-    margin: 0px 70px 0px;
+.texto{
+    font-family: 'Lexend Mega', sans-serif;
+    font-size: 1.2em;
+    font-weight: 80;
+    text-align:justify;
 }
-.resumo {
-    float: right;
-    font-family: 'Indie Flower', cursive;}
+.grid-item-star{
+    border: 1px solid rgba(7, 7, 7, 0.3);
+    padding: 20px;
+    
+}
+
 .rodape {
 
     background: rgb(196, 137, 211);
     text-align: center;
-    margin: 50px 0 0;
-    padding:  20px 0; 
-    position:fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    height: 10px;
-
-    
-  
+    margin: 10px ;
+    padding:  10px; 
+    position:absolute;
+    height: 10px; 
+    width:211vh
 }
 
 .copyright {
     margin: -1px;
 }
-
-
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
