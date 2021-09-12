@@ -178,6 +178,46 @@ Para incluir áudio usa-se as tags ```<audio></audio>```, esse elemento funciona
 
 ______
 
+#### O Problema do Poema
+HTML não leva em consideração os espaços, então a estrutura de um poema não será respeitada quando esse for renderizado pelo browser. Por exemplo, veja o poema abaixo
+    
+Que a tristeza te convença<br>
+Que a saudade não compensa<br>
+E que a ausência não dá paz<br>
+E o verdadeiro amor de quem se ama<br>
+Tece a mesma antiga trama<br>
+Que não se desfaz<br>
+    
+O brownzer irá interpretar da seguinte forma :
+    
+> Que a tristeza te convença
+Que a saudade não compensa
+E que a ausência não dá paz
+E o verdadeiro amor de quem se ama
+Tece a mesma antiga trama
+Que não se desfaz
+    
+Para que o brownzer reproduza a estrutura do poema podemos utilizar de dois artificios, primeiramente podemos inserir uma quebra de linha no final de cada verso.
+```html
+Que a tristeza te convença<br>
+Que a saudade não compensa<br>
+E que a ausência não dá paz<br>
+E o verdadeiro amor de quem se ama<br>
+Tece a mesma antiga trama<br>
+Que não se desfaz<br>
+```
+Apesar de funcionar, não é muito eficiente, principalmente porque exige uma repetição exaustiva de uma tag. A solução pra isso nos leva ao nosso segundo artifício
+para o problema  do poema, podemos utilizar a tag`<pre>` que irá manter um determinado conteúdo com uma formatação padrão, incluindo o espaçamento.
+```html
+<pre>
+Que a tristeza te convença
+Que a saudade não compensa
+E que a ausência não dá paz
+E o verdadeiro amor de quem se ama
+Tece a mesma antiga trama
+Que não se desfaz
+</pre>
+```
 :house:[HOME](https://github.com/Evaldo-comp/Web)
 
 
